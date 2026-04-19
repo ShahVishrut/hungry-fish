@@ -3,7 +3,7 @@
 A survival game built with JavaScript and Phaser.
 
 ## Premise
-You are a small fish in dangerous waters. A school of predators is closing in, drooling toxic saliva at the thought of a meal. Your only defense is to satisfy their hunger by sharing your limited food supply before they reach you.
+You are a small fish in dangerous waters. A school of predators is closing in, drooling toxic saliva at the thought of a meal. Your only defense is to satisfy their hunger by distracting them with your limited food supply before they reach you.
 
 ## Play Now
 [Click here to play the game!](https://shahvishrut.github.io/hungry-fish/)
