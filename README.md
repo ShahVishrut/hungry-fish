@@ -3,7 +3,7 @@
 A survival game built with JavaScript and Phaser.
 
 ## Play Now
-[Click here to play the game!](shahvishrut.github.io/hungry-fish/)
+[Click here to play the game!](https://shahvishrut.github.io/hungry-fish/)
 
 ## Controls
 * **W / S**: Move Up / Down
